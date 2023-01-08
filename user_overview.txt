@@ -1,0 +1,30 @@
+~ User Overview ~
+
+Total Users:		3
+Total Tasks:		4
+----------------------------------------------------
+User:					admin
+User Tasks:				0
+Portion Total Tasks:	0%
+Portion Completed:		0%
+Portion Incomplete:		0%
+Portion Overdue:		0%
+----------------------------------------------------
+
+----------------------------------------------------
+User:					Tasmiah
+User Tasks:				1
+Portion Total Tasks:	25%
+Portion Completed:		0%
+Portion Incomplete:		0%
+Portion Overdue:		0%
+----------------------------------------------------
+
+----------------------------------------------------
+User:					Karan
+User Tasks:				3
+Portion Total Tasks:	75%
+Portion Completed:		0%
+Portion Incomplete:		0%
+Portion Overdue:		0%
+----------------------------------------------------

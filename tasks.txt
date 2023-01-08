@@ -1,0 +1,4 @@
+Karan, packaging, package all the candles, 2021-07-10, 2021-07-12, True
+Karan, floor duty, sweep and mop floors, 2021-07-08, 2021-07-09, no
+Tasmiah, pouring, melt the wax and put it in the moulds, 2021-07-08, 2021-07-10, True
+Karan, shipping, ship the candles off, 2021-07-26, 2021-08-19, False
